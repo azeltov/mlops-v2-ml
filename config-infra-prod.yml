@@ -7,7 +7,7 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: mlopsv2ml
+  namespace: ml
   postfix: 549
   location: eastus2
   environment: prod
