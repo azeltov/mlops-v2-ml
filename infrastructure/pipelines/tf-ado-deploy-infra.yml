@@ -18,8 +18,8 @@ pool:
 resources:
   repositories:
     - repository: mlops-templates 
-      name: Azure/mlops-templates 
-      endpoint: github-connection
+      name: azeltov/mlops-templates 
+      endpoint: mlops-v2-service-connection
       type: github
       ref: main #branch name
 
